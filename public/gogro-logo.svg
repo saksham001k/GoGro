@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" role="img" aria-label="GoGro">
+  <!-- Simple mark: basket + wordmark (white, for use on green header) -->
+  <g fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4 12h6l2 20h20l2-20h6" />
+    <path d="M12 12V8a8 8 0 0 1 8-8v0" />
+  </g>
+  <text x="44" y="28" fill="white" font-size="22" font-family="ui-sans-serif,system-ui,sans-serif" font-weight="800" letter-spacing="-0.02em">GoGro</text>
+</svg>
